@@ -1,5 +1,19 @@
+h1 {
+  color: white;
+}
+
 img {
   float: right;
+  width: 350px;
+  height: 280px;
+}
+
+img.cat {
+  width:500px;
+}
+
+ul {
+  padding:20px;
 }
 
 .main {
