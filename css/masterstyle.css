@@ -1,5 +1,13 @@
-h1 {
+div.jumbotron h1 {
+  font-weight: bold;
   color: white;
+}
+
+p strong.box {
+  border: 3px solid black;
+  float: right;
+  padding: 10px;
+  margin: 10px;
 }
 
 img {
